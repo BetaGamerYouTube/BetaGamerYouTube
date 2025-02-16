@@ -18,7 +18,7 @@
 ## 🧁〣 Learning:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  None
 </p>
 <br>
 
